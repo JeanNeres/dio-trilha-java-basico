@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaBanco.ContaTerminal",
+            "projectName": "tipos-variaveis_8c511ff3"
+        },
+        {
+            "type": "java",
+            "name": "desafio",
+            "request": "launch",
+            "mainClass": "desafio",
+            "projectName": "tipos-variaveis_8c511ff3"
+        },
+        {
+            "type": "java",
             "name": "Scanner",
             "request": "launch",
             "mainClass": "Argumentos.Scanner",
